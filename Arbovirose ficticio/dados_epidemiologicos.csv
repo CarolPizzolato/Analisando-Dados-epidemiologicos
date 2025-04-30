@@ -1,0 +1,10 @@
+data_notificacao,regiao,sexo,idade,doenca,casos,obitos
+2024-01-01,Sudeste,F,34,Dengue,5,0
+2024-01-01,Sudeste,M,45,Dengue,3,1
+2024-01-01,Norte,F,22,Zika,2,0
+2024-01-02,Sul,M,60,Dengue,6,2
+2024-01-02,Centro-Oeste,F,37,Chikungunya,1,0
+2024-01-03,Nordeste,M,29,Zika,4,1
+2024-01-03,Sudeste,F,55,Dengue,7,0
+2024-01-04,Norte,F,43,Dengue,3,1
+2024-01-04,Sul,M,50,Chikungunya,2,0
